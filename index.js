@@ -48,3 +48,5 @@ function calculatesFarePrice (start, destination) {
 calculatesFarePrice(34,32) 
 calculatesFarePrice(50,58)
 calculatesFarePrice(34,24)
+
+
